@@ -1,0 +1,6 @@
+vsfsck
+vsfsck.exe
+*.o
+*.exe
+# File system images (keep your own test images out of the repo)
+*.img
